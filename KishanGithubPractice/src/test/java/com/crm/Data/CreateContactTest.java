@@ -6,5 +6,6 @@ public class CreateContactTest {
 @Test
 public void Createcont(){
 	System.out.println("contact is created");
+	System.out.println("Good night");
 }
 }
